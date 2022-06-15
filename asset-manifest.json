@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ferias/static/css/main.f3e9dd6e.css",
+    "main.js": "/ferias/static/js/main.46f2eb12.js",
+    "static/media/videosegunda.mp4": "/ferias/static/media/videosegunda.0dffdb3391d34ad80476.mp4",
+    "static/media/2_7 feria.jpg": "/ferias/static/media/2_7 feria.c5a68ff911baf8a89970.jpg",
+    "static/media/2_1 feria.png": "/ferias/static/media/2_1 feria.78730d0e16f372c83f90.png",
+    "static/media/1_5feria.jpg": "/ferias/static/media/1_5feria.7656b5dabe6ab15bbc7e.jpg",
+    "static/media/1_3feria.jpg": "/ferias/static/media/1_3feria.b221120ab28352989ab4.jpg",
+    "static/media/1_2feria.jpg": "/ferias/static/media/1_2feria.1b5de5779bdbec0789af.jpg",
+    "static/media/1_1feria.jpg": "/ferias/static/media/1_1feria.4071527c4c4dbe52d58b.jpg",
+    "static/media/1_8 feria.jpg": "/ferias/static/media/1_8 feria.1fd8d5aff0d2c73cabb2.jpg",
+    "static/media/2_6 feria.jpg": "/ferias/static/media/2_6 feria.6583adcac778c54e9ab5.jpg",
+    "static/media/1_4.jpg": "/ferias/static/media/1_4.30b4972d5828670b54ee.jpg",
+    "static/media/2_5 feria.jpg": "/ferias/static/media/2_5 feria.71d447caeae5081a9834.jpg",
+    "static/media/1_6 feria.jpg": "/ferias/static/media/1_6 feria.a466703f98737f557e28.jpg",
+    "static/media/1_7 feria.jpg": "/ferias/static/media/1_7 feria.553ce0b7317ebe641fc7.jpg",
+    "static/media/2_4 feria.jpg": "/ferias/static/media/2_4 feria.9b7b7577c0a63896cf37.jpg",
+    "static/media/2_2 feria.png": "/ferias/static/media/2_2 feria.3afd649e2211d2903607.png",
+    "static/media/2_8 feria.jpg": "/ferias/static/media/2_8 feria.8cbb1033aba5642fe6ea.jpg",
+    "static/media/2_3 feria.jpg": "/ferias/static/media/2_3 feria.2b64c7ecc822c14597f6.jpg",
+    "static/media/LogoSanPatricio.png": "/ferias/static/media/LogoSanPatricio.6ffae441a59eac3de5aa.png",
+    "static/media/SomosSP.png": "/ferias/static/media/SomosSP.5cf5759f2fb836747db1.png",
+    "static/media/FeriaProvicional.png": "/ferias/static/media/FeriaProvicional.d96fc267040eacc8dd54.png",
+    "index.html": "/ferias/index.html",
+    "main.f3e9dd6e.css.map": "/ferias/static/css/main.f3e9dd6e.css.map",
+    "main.46f2eb12.js.map": "/ferias/static/js/main.46f2eb12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3e9dd6e.css",
+    "static/js/main.46f2eb12.js"
+  ]
+}
