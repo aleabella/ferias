@@ -15,14 +15,14 @@ root.render(
   <>
   <BrowserRouter>
   <Routes> 
-    <Route path='/ferias_steam' element={<Ferias/>}></Route>
-    <Route path='/ferias' element={<Navigate replace to={"/ferias_steam"}/>}></Route>
-    <Route path='/ferias_steam/primera' element={<PrimeraFeria/>}></Route>
-    <Route path='/ferias_steam/segunda' element={<SegundaFeria/>}></Route>
-    <Route path='/ferias_steam/tercera' element={<TerceraFeria/>}></Route>
-    <Route path='/ferias_steam/cuarta' element={<CuartaFeria/>}></Route>
-    <Route path='/ferias_steam/quinta' element={<QuintaFeria/>}></Route>
-    <Route path='/ferias_steam/sexta' element={<SextaFeria/>}></Route>
+    <Route path='/ferias' element={<Ferias/>}></Route>
+    <Route path='/ferias' element={<Navigate replace to={"/ferias"}/>}></Route>
+    <Route path='/ferias/primera' element={<PrimeraFeria/>}></Route>
+    <Route path='/ferias/segunda' element={<SegundaFeria/>}></Route>
+    <Route path='/ferias/tercera' element={<TerceraFeria/>}></Route>
+    <Route path='/ferias/cuarta' element={<CuartaFeria/>}></Route>
+    <Route path='/ferias/quinta' element={<QuintaFeria/>}></Route>
+    <Route path='/ferias/sexta' element={<SextaFeria/>}></Route>
   </Routes>
   </BrowserRouter>
   </>
